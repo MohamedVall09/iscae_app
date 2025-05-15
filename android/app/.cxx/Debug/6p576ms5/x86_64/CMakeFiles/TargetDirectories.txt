@@ -1,0 +1,2 @@
+C:/Users/Dell/Downloads/iscae_app/android/app/.cxx/Debug/6p576ms5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Dell/Downloads/iscae_app/android/app/.cxx/Debug/6p576ms5/x86_64/CMakeFiles/rebuild_cache.dir
